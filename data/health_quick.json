@@ -1,0 +1,52 @@
+{
+  "fever": {
+    "symptoms": "Body feels hot. Temperature above 98.6°F.",
+    "what_to_do": ["Rest and drink lots of water or ORS", "Take paracetamol 500mg for adults", "Put wet cloth on forehead"],
+    "see_doctor_if": "Fever more than 3 days, temperature above 103°F, or in children under 3 months."
+  },
+  "diarrhea": {
+    "symptoms": "Loose watery stools many times. Can cause dehydration fast.",
+    "what_to_do": ["ORS is most important. Mix 6 spoons sugar and half spoon salt in 1 litre water", "Drink boiled water only", "Eat rice, banana, curd"],
+    "see_doctor_if": "Blood in stool, signs of dehydration, or lasting more than 3 days."
+  },
+  "headache": {
+    "symptoms": "Pain in head or forehead.",
+    "what_to_do": ["Rest in quiet dark room", "Drink water", "Take paracetamol 500mg"],
+    "see_doctor_if": "Sudden very severe headache, headache with fever and stiff neck, or after head injury."
+  },
+  "stomach pain": {
+    "symptoms": "Pain in belly area.",
+    "what_to_do": ["Rest, don't eat heavy food", "Drink clear fluids", "Apply warm cloth on stomach"],
+    "see_doctor_if": "Severe pain, blood in vomit or stool, or pain with high fever."
+  },
+  "chest pain": {
+    "symptoms": "⚠️ This can be serious.",
+    "what_to_do": ["Call 108 immediately if pain is crushing or spreading to arm or jaw", "Stop all activity, sit down", "Chew one aspirin if available"],
+    "see_doctor_if": "⚠️ ANY chest pain should be checked by doctor immediately."
+  },
+  "cough": {
+    "symptoms": "Coughing with or without mucus.",
+    "what_to_do": ["Drink warm water with honey and ginger", "Steam inhalation", "Gargle with warm salt water"],
+    "see_doctor_if": "Cough more than 2 weeks, coughing blood, or high fever with cough."
+  },
+  "burns": {
+    "symptoms": "Skin burned by heat, fire, or hot water.",
+    "what_to_do": ["Put under cool running water for 10-20 minutes immediately", "Don't apply ice, butter, or toothpaste", "Cover with clean cloth"],
+    "see_doctor_if": "Burn bigger than your palm, on face/hands/feet, or blisters forming."
+  },
+  "dengue": {
+    "symptoms": "Very high fever, severe body pain, skin rash.",
+    "what_to_do": ["Get blood test immediately", "Drink lots of water and ORS", "Take paracetamol only. Don't take aspirin or ibuprofen"],
+    "see_doctor_if": "⚠️ Severe stomach pain, vomiting, bleeding from anywhere — go to hospital immediately."
+  },
+  "malaria": {
+    "symptoms": "Fever that comes and goes in cycles with shivering.",
+    "what_to_do": ["Get blood test immediately", "Sleep under mosquito net", "Take prescribed medicine fully"],
+    "see_doctor_if": "Confusion, yellow skin, dark urine."
+  },
+  "breathing difficulty": {
+    "symptoms": "⚠️ Can be emergency.",
+    "what_to_do": ["Call 108 immediately", "Sit upright, don't lie down", "Open windows for air"],
+    "see_doctor_if": "⚠️ Always seek immediate help for breathing difficulty."
+  }
+}

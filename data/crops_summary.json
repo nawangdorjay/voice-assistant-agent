@@ -1,0 +1,72 @@
+{
+  "rice": {
+    "name": "Rice (चावल)",
+    "sowing_time": "June-July for Kharif",
+    "water": "Needs lots of water. Keep field flooded.",
+    "key_tip": "Transplant 25-day seedlings. Apply nitrogen in 3 parts.",
+    "harvest": "October-November"
+  },
+  "wheat": {
+    "name": "Wheat (गेहूं)",
+    "sowing_time": "October-November. Don't delay after November 15.",
+    "water": "4-6 irrigations. First irrigation at 21 days is most important.",
+    "key_tip": "Each week delay after Nov 15 loses about 50 kg per hectare.",
+    "harvest": "March-April"
+  },
+  "cotton": {
+    "name": "Cotton (कपास)",
+    "sowing_time": "April-May in North, June-July in South/Central",
+    "water": "Moderate. Avoid waterlogging.",
+    "key_tip": "Remove bollworm-infected bolls by hand. Install pheromone traps.",
+    "harvest": "October-December in multiple pickings"
+  },
+  "sugarcane": {
+    "name": "Sugarcane (गन्ना)",
+    "sowing_time": "October-November or February-March",
+    "water": "Needs lots of water. 1500-2500mm rainfall needed.",
+    "key_tip": "Use 3-budded setts from disease-free plants. Apply 275:115:115 NPK.",
+    "harvest": "12-18 months after planting"
+  },
+  "maize": {
+    "name": "Maize (मक्का)",
+    "sowing_time": "June-July (Kharif), October (Rabi)",
+    "water": "Moderate. Critical at tasseling and grain filling.",
+    "key_tip": "Earthing up at 30-35 days prevents falling.",
+    "harvest": "September-October (Kharif)"
+  },
+  "mustard": {
+    "name": "Mustard (सरसों)",
+    "sowing_time": "October-November",
+    "water": "Low. Only 1-2 irrigations needed.",
+    "key_tip": "Watch for aphids. Spray Dimethoate if more than 5 per plant.",
+    "harvest": "February-March"
+  },
+  "tomato": {
+    "name": "Tomato (टमाटर)",
+    "sowing_time": "Varies by region. Main: October-November for Rabi.",
+    "water": "Moderate. Drip irrigation recommended.",
+    "key_tip": "Stake plants for 20-30% more yield. Calcium spray prevents fruit rot.",
+    "harvest": "60-90 days after transplanting"
+  },
+  "potato": {
+    "name": "Potato (आलू)",
+    "sowing_time": "October-November in plains",
+    "water": "Moderate. Light, frequent irrigation. No waterlogging.",
+    "key_tip": "Earth up twice at 25 and 45 days. Use 40-50 gram seed tubers.",
+    "harvest": "90-120 days after planting"
+  },
+  "onion": {
+    "name": "Onion (प्याज)",
+    "sowing_time": "June-July (Kharif), October-November (Rabi)",
+    "water": "Moderate. Critical during bulb formation.",
+    "key_tip": "Stop irrigation 15 days before harvest for better storage.",
+    "harvest": "100-120 days after transplanting"
+  },
+  "chickpea": {
+    "name": "Chickpea (चना)",
+    "sowing_time": "October-November",
+    "water": "Low. Rainfed crop. 1-2 irrigations if no rain.",
+    "key_tip": "Pod borer is main pest. Spray Indoxacarb at flowering.",
+    "harvest": "February-March"
+  }
+}

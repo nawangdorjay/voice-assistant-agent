@@ -1,0 +1,85 @@
+{
+  "national": {
+    "ambulance": "108",
+    "police": "100",
+    "fire": "101",
+    "emergency": "112",
+    "women": "1091",
+    "women helpline": "1091",
+    "child": "1098",
+    "child helpline": "1098",
+    "health helpline": "102",
+    "health": "102",
+    "covid": "1075",
+    "disaster": "1078",
+    "poison": "1066",
+    "mental health": "08046110007",
+    "blood bank": "104"
+  },
+  "ladakh": {
+    "ambulance": "108",
+    "hospital": "01982-252014",
+    "police": "100",
+    "emergency": "108"
+  },
+  "delhi": {
+    "ambulance": "108",
+    "police": "100",
+    "women": "181",
+    "emergency": "112"
+  },
+  "maharashtra": {
+    "ambulance": "108",
+    "police": "100",
+    "women": "103",
+    "emergency": "112"
+  },
+  "karnataka": {
+    "ambulance": "108",
+    "police": "100",
+    "women": "1091",
+    "emergency": "112"
+  },
+  "tamil nadu": {
+    "ambulance": "108",
+    "police": "100",
+    "women": "1091",
+    "emergency": "112"
+  },
+  "uttar pradesh": {
+    "ambulance": "108",
+    "police": "100",
+    "women": "1090",
+    "emergency": "112"
+  },
+  "gujarat": {
+    "ambulance": "108",
+    "police": "100",
+    "women": "181",
+    "emergency": "112"
+  },
+  "rajasthan": {
+    "ambulance": "108",
+    "police": "100",
+    "women": "1091",
+    "emergency": "112"
+  },
+  "west bengal": {
+    "ambulance": "108",
+    "police": "100",
+    "women": "1091",
+    "emergency": "112"
+  },
+  "bihar": {
+    "ambulance": "108",
+    "police": "100",
+    "women": "1091",
+    "emergency": "112"
+  },
+  "telangana": {
+    "ambulance": "108",
+    "police": "100",
+    "women": "1091",
+    "emergency": "112"
+  }
+}

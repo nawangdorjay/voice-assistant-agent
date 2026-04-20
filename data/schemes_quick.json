@@ -1,0 +1,50 @@
+[
+  {
+    "name": "PM-KISAN",
+    "description": "₹6,000 per year to farmer families in 3 installments",
+    "how_to_apply": "Register at pmkisan.gov.in or nearest CSC centre",
+    "keywords": ["loan", "money", "cash", "income", "farmer", "support", "kisan"]
+  },
+  {
+    "name": "PMFBY (Crop Insurance)",
+    "description": "Crop insurance at very low premium. Farmer pays only 1.5 to 5 percent",
+    "how_to_apply": "Through your bank or visit pmfby.gov.in",
+    "keywords": ["insurance", "crop loss", "damage", "drought", "flood", "fasal bima"]
+  },
+  {
+    "name": "Kisan Credit Card",
+    "description": "Low interest loan for farming. Only 4 percent interest per year",
+    "how_to_apply": "Apply at any bank with land records",
+    "keywords": ["credit card", "loan", "bank", "borrow", "interest", "kcc"]
+  },
+  {
+    "name": "Ayushman Bharat",
+    "description": "Free hospital treatment up to 5 lakh rupees per year",
+    "how_to_apply": "Check eligibility at mera.pmjay.gov.in or call 14555",
+    "keywords": ["hospital", "treatment", "surgery", "free", "ayushman", "health", "insurance"]
+  },
+  {
+    "name": "Jan Aushadhi",
+    "description": "Same quality medicines at 50 to 90 percent lower price",
+    "how_to_apply": "Find nearest store at janaushadhi.gov.in",
+    "keywords": ["medicine", "cheap", "tablet", "drug", "pharmacy", "generic"]
+  },
+  {
+    "name": "PM Kusum Solar Pump",
+    "description": "60 percent subsidy on solar water pumps for farmers",
+    "how_to_apply": "Apply through state agriculture department",
+    "keywords": ["solar", "pump", "electricity", "power", "energy", "subsidy"]
+  },
+  {
+    "name": "Ujjwala Yojana",
+    "description": "Free LPG gas connection for poor families",
+    "how_to_apply": "Apply at nearest gas agency with BPL card",
+    "keywords": ["gas", "lpg", "cooking", "cylinder", "ujjwala", "free"]
+  },
+  {
+    "name": "PM Awas Yojana",
+    "description": "Financial help to build pucca house. Up to 1.3 lakh rupees",
+    "how_to_apply": "Register at pmaymis.gov.in or visit block office",
+    "keywords": ["house", "home", "awas", "shelter", "construction", "makaan"]
+  }
+]

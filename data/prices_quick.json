@@ -1,0 +1,14 @@
+{
+  "rice": {"price": "₹2100 per quintal", "note": "Check local mandi for exact rate"},
+  "wheat": {"price": "₹2275 per quintal", "note": "MSP is ₹2275. Private mandi may vary."},
+  "cotton": {"price": "₹6500 per quintal", "note": "Prices change daily. Check eNAM."},
+  "sugarcane": {"price": "₹340 per quintal FRP", "note": "FRP rate. State SAP may be higher."},
+  "maize": {"price": "₹2150 per quintal", "note": "MSP is ₹2225."},
+  "mustard": {"price": "₹5450 per quintal", "note": "MSP is ₹5450."},
+  "tomato": {"price": "₹2500 per quintal average", "note": "Very volatile. Changes daily."},
+  "potato": {"price": "₹1200 per quintal average", "note": "Seasonal. Cheaper in Feb-Mar harvest."},
+  "onion": {"price": "₹2000 per quintal average", "note": "Very volatile. Can go up to ₹5000."},
+  "chana": {"price": "₹5440 per quintal", "note": "MSP is ₹5440."},
+  "jaggery": {"price": "₹4000-5000 per quintal", "note": "Varies by quality and region."},
+  "turmeric": {"price": "₹9000-12000 per quintal", "note": "Good quality fetches premium."}
+}
