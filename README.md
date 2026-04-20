@@ -1,5 +1,7 @@
 # 🔊 Sahayak — Voice-First Accessibility Agent
 
+![Screenshot](screenshots/output.png)
+
 A voice assistant for rural India. Speak in Hindi, Tamil, Telugu, Bengali, or any Indian language. Get answers about farming, health, government schemes, and emergencies — **no reading or typing required**.
 
 Built by [Nawang Dorjay](https://github.com/nawangdorjay) — from Ladakh, for **GSSoC 2026** (Agents for India Track).
