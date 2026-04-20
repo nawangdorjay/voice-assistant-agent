@@ -170,3 +170,12 @@ From Nubra Valley, Leh, Ladakh 🏔️
 - [Email](mailto:nawangdorjay09@gmail.com)
 
 Built for **GSSoC 2026** — Agents for India Track.
+
+---
+
+## 🤖 AI-Assisted Development
+
+This project was built with AI assistance as part of a transparent human-AI collaboration workflow. AI helped with code generation, structure, and documentation — while domain expertise, data accuracy, and architectural decisions were human-driven.
+
+> **See [BUILDING.md](BUILDING.md) for full transparency on AI usage, roles, and workflow.**
+
